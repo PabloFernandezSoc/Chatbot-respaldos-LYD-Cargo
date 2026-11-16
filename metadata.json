@@ -1,0 +1,6 @@
+{
+  "name": "LYD Cargo - Panel de Control & Bot de Respaldos",
+  "description": "Panel de control para la sincronización de servicios con BIT ERP y automatización de solicitud de Guías de Despacho y EIR a través de WhatsApp (YCloud).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
